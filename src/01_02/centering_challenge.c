@@ -13,6 +13,7 @@ void center_text(int width, char *text)
 	{
 		printf(" ");
 	}
+	printf("\n");
 }
 
 int main()
